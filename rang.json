@@ -54,10 +54,10 @@
         "victoire": "22/43"
     },
     "1004307045996052512": {
-        "rang": "24",
+        "rang": "23",
         "elo": "677",
         "elomax": "700",
         "victoire": "300/699",
-        "legende": true
+        "legende": false
     }
 }
